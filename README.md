@@ -2,7 +2,7 @@
 
 ## Overview
 
-The GitHub User Search App is a React-based web application that allows users to search for GitHub profiles by entering a username. The application fetches real-time data from the GitHub REST API and dynamically displays user profile information in a clean and responsive interface.
+GitHub User Search App is a React-based web application that allows users to search for GitHub profiles by entering a username. The application fetches real-time data from the GitHub REST API and displays user profile information dynamically in a clean and responsive interface.
 
 This project was developed as part of the ALX Frontend Engineering Capstone.
 
@@ -10,12 +10,12 @@ This project was developed as part of the ALX Frontend Engineering Capstone.
 
 ## Features
 
-- Search for any GitHub user by username
-- Fetch real-time data from the GitHub API
-- Display profile details dynamically
-- Handle errors for invalid usernames
-- Responsive and clean user interface
-- Built using reusable React components and state management
+- Search GitHub users by username  
+- Fetch real-time data from the GitHub REST API  
+- Display profile information dynamically  
+- Error handling for invalid usernames  
+- Responsive and user-friendly design  
+- Built using React components and state management  
 
 ---
 
@@ -34,16 +34,41 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Felix4650/alx-capstone-github-user-search.git
+```
 
-## Navigate to project folder
+Navigate into the project directory:
+
+```bash
 cd alx-capstone-github-user-search
+```
 
-## Install dependencies
+Install dependencies:
+
+```bash
 npm install
+```
 
-## Start development server
+Start the development server:
+
+```bash
 npm run dev
+```
 
-## App will run locally
+The application will run locally at:
+
 http://localhost:5173
 
+---
+
+## Demo Video
+
+Loom Presentation Link:  
+(Add your Loom link here)
+
+---
+
+## Author
+
+Felix  
+ALX Frontend Engineering Program  
+Capstone Project - 2026
