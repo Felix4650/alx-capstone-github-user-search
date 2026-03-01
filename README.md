@@ -63,7 +63,7 @@ http://localhost:5173
 ## Demo Video
 
 Loom Presentation Link:  
-(Add your Loom link here)
+https://www.loom.com/share/cc500b3a61584535b9a6d4907a9e1c52
 
 ---
 
