@@ -35,15 +35,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/Felix4650/alx-capstone-github-user-search.git
 
-### Navigate to project folder
+## Navigate to project folder
 cd alx-capstone-github-user-search
 
-### Install dependencies
+## Install dependencies
 npm install
 
-### Start development server
+## Start development server
 npm run dev
 
-### App will run locally
+## App will run locally
 http://localhost:5173
 
