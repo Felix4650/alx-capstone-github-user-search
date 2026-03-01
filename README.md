@@ -30,4 +30,3 @@ This project was built as part of the ALX Frontend Engineering Capstone.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
